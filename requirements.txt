@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+psycopg2-binary
+sqlalchemy
+requests
+selenium
+webdriver-manager
+torch
+transformers
+pillow
+faiss-cpu
+python-dotenv
+numpy
